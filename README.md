@@ -5,6 +5,7 @@ Res klasörü altına animasyon klasörü oluşturup içine mytrasition.xml dosy
 
 
 <alpha
+
     android:fromAlpha="0.0"
     android:toAlpha="1.0"
     android:duration="2000"
