@@ -1,5 +1,5 @@
 ### Splash Screen Yapımı:
-Res klasörü altına animasyon klasörü oluşturup içine mytrasition.xml dosyasını  ekliyoruz
+Res klasörü altına animasyon klasörü oluşturup içine mytransition.xml dosyasını  ekliyoruz
 
 
 
