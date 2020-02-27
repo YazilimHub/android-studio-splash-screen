@@ -7,16 +7,11 @@
 ### Splash Screen Yapımı:
 Res klasörü altına animasyon klasörü oluşturup içine mytrasition.xml dosyasını  ekliyoruz
 
-<?xml version="1.0" encoding="utf-8"?>
-<alpha
-  
 
+<alpha
     android:fromAlpha="0.0"
     android:toAlpha="1.0"
-    android:duration="2000"
-
-
-     />
+    android:duration="2000" />
   
   
 2.Adım:
