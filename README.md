@@ -9,7 +9,7 @@ Res klasörü altına animasyon klasörü oluşturup içine mytrasition.xml dosy
 
 <?xml version="1.0" encoding="utf-8"?>
 <alpha
-    xmlns:android="http://schemas.android.com/apk/res/android"
+  
 
     android:fromAlpha="0.0"
     android:toAlpha="1.0"
