@@ -5,7 +5,6 @@ Res klasörü altına animasyon klasörü oluşturup içine mytrasition.xml dosy
 
 
 <alpha
-
     android:fromAlpha="0.0"
     android:toAlpha="1.0"
     android:duration="2000"
@@ -16,7 +15,7 @@ Res klasörü altına animasyon klasörü oluşturup içine mytrasition.xml dosy
 2.Adım:
 SplashScreen.java dosyası içine kodlarımızı ekliyoruz
 
-public class MainActivity extends AppCompatActivity {
+
 
     private TextView text;
     private ImageView img;
@@ -56,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         };
         timer.start();
     }
-}
+
 
 	
 	
